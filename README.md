@@ -17,7 +17,7 @@
 5. 🕸️ [Assets & Code](#snippets)
 6. 🚀 [More](#more)
 
-## 🚨 Tutorial
+
 
 ## <a name="introduction">🤖 Introduction</a>
 

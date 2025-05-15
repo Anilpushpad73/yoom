@@ -1,13 +1,12 @@
-  <h3 align="center">MeetLink app</h3>
+  <h3 align="center">YOOM APP</h3>
 
-   <div align="center">
-     Build this project step by step
-    </div>
-</div>
+  
 <div>
    <img src="https://drive.google.com/uc?id=16mphvsd-jQG2ZJK73ueRwkTyfwiBL2CC" alt="typescript" />
 </div>
-
+ <div align="center">
+     Build this project step by step
+    </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
